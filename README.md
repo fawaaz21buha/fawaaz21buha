@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fawaaz!
 
-I'm a passionate *Frontend Developer* with a focus on building clean, responsive, and user-friendly web interfaces. I love turning ideas into real websites and learning new technologies along the way.
+I am an enthusiastic *Frontend Developer* dedicated to creating clean, responsive, and user-friendly web interfaces. I enjoy bringing ideas into actual websites and learning new technology in the process.
 
 ---
 
